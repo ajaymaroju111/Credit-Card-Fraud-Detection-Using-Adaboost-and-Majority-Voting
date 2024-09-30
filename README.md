@@ -1,4 +1,4 @@
-# Credit Card Fraud Detector
+# Credit Card Fraud Detection Using Adaboost and Majority Voting
 
 This project will detect fraudulent activity on consumer credit cards based on the following scenario: 
 A credit card transaction is comprised of the following elements.
@@ -29,7 +29,7 @@ The following are the system requirements prior to the installation of the proje
 ### Installing
 
 1. Open command prompt or terminal based on your system
-2. Type ```git clone https://github.com/aditisharma2512/CreditCardFraudDetector --depth 1```
+2. Type ```git clone https://github.com/marojuajay/CreditCardFraudDetector --depth 1```
 3. Traverse the following Directory:
 
 **Command Prompt**
@@ -70,6 +70,6 @@ This is version 1.0.
 
 ## Authors
 
-* **Aditi Sharma**
+* **Maroju Ajay**
 
-[LinkedIn](https://www.linkedin.com/in/aditisharma25/) | [Email](mailto:aditisharma2593@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marojuajay/) | [Email](marojuajay111@gmail.com)
