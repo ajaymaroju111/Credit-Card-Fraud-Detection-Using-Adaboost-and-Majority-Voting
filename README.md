@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-Using-Adaboost-and-Majority-Voting
+This project implemented a robust fraud detection system utilizing AdaBoost &amp; majority voting techniques. By analyzing transaction data, we enhanced detection accuracy and reduced false positives. The solution significantly improved real-time monitoring, ensuring quicker responses to fraudulent activities and enhancing overall transaction security.
